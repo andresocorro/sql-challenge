@@ -66,5 +66,3 @@ ORDER BY last_name_frequency DESC;
 
 
 
-
-
