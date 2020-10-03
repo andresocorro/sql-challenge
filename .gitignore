@@ -110,6 +110,9 @@ ENV/
 env.bak/
 venv.bak/
 
+#Postgre info
+config.py
+
 # Spyder project settings
 .spyderproject
 .spyproject
