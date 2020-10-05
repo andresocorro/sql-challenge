@@ -2,7 +2,7 @@
 
 As a Data Engineer at Pewlett Hackard I was tasked with working on a research project on the employees that have worked for the corporation from the 1980s and 1990s. Using a series of CSV files, the goal is to be able to navigate through this in order to properly display the necessary info for the employees. This info could be their names, ID, gender, salary, job title, or what the specific departments are as well as who is the manager(s) for it.
 
-![Table](Images/ERD_Snapshot.png)
+![Table](Images/ERD_Snapshot.PNG)
 
 After learning how to properly parse through the CSV files, the following questions were answered:
 
